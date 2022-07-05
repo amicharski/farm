@@ -1,0 +1,19 @@
+! Welcome to GOLD Parser Builder 5.2
+
+"Name" = 'Farm'
+       
+"Version" = '1.0'
+          
+"Author" = 'Alex Micharski, Open Source Hub'
+         
+"About" = 'Designed to teach compiler design through the creation of a'
+        |   'custom programming language.'
+        
+"Case Sensitive" = 'True'
+                 
+"Start Symbol" = <Main>
+               
+! Character Sets
+
+               
+<Main> ::= (
